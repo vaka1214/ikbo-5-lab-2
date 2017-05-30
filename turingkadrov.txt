@@ -1,0 +1,8 @@
+
+movl
+
+	movr
+
+inc
+
+ print
